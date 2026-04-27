@@ -130,5 +130,4 @@ The admin dashboard shows:
 **Sakthi Priya S**
 - GitHub: https://github.com/SAKTHIPRIYASATHISH
 
-## 📄 License
-MIT License
+
